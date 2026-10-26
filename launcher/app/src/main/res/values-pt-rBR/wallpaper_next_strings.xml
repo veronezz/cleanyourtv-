@@ -1,0 +1,6 @@
+<resources>
+<string name="wh_next">Próximo papel de parede</string>
+<string name="wh_next_help">Troca ao voltar à tela inicial. O fundo do Spotify continua tendo prioridade.</string>
+<string name="wh_next_requested">Próximo papel de parede solicitado</string>
+<string name="wh_next_action">Avançar</string>
+</resources>

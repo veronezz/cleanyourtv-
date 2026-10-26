@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="handle_inputs_title">"Atender el botón de entradas"</string>
+    <string name="handle_inputs_help">"Abre el menú de entradas del launcher si el selector de la TV no funciona; desactivado por defecto"</string>
+</resources>

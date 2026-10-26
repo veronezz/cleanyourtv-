@@ -1,0 +1,14 @@
+<resources>
+<string name="settings_home">Home screen</string>
+<string name="settings_home_help">Theme, icons, dock, hidden apps and dynamic rows</string>
+<string name="settings_system_help">Language, playback access and Android TV</string>
+<string name="settings_expanded">Expanded</string>
+<string name="settings_collapsed">Collapsed</string>
+<string name="rows_master">All dynamic rows</string>
+<string name="rows_show">Show rows</string>
+<string name="rows_apps_only">Apps only</string>
+<string name="rows_master_help">Turn off to hide Continue watching, live TV, recommendations and Now playing. Individual choices are preserved.</string>
+<string name="rows_music">Now playing · Spotify</string>
+<string name="rows_tizentube">TizenTube recommendations</string>
+<string name="rows_youtube">YouTube recommendations</string>
+</resources>

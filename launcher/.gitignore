@@ -1,0 +1,6 @@
+
+# Local signing material and generated APKs
+signing/*.keystore
+signing/*.p12
+dist/
+signing/*.jks

@@ -17,3 +17,17 @@ work/
 *.aab
 launcher/hs_err_pid*.log
 launcher/replay_pid*.log
+
+# Private signing material and local build output
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.key
+.env
+.env.*
+**/local.properties
+**/.gradle/
+**/build/
+launcher/dist/
+launcher/signing/*.properties

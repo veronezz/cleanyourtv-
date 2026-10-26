@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wh_source">"Tema o colección de Wallhaven"</string>
+    <string name="wh_source_help">"Temas, palabras clave, etiquetas o colección pública"</string>
+    <string name="wh_quality">"Resolución mínima del origen"</string>
+    <string name="wh_quality_help">"Las imágenes se preparan para la resolución de la interfaz y la memoria disponible"</string>
+    <string name="wh_ratio">"Proporción del origen"</string>
+    <string name="wh_horizontal">"Horizontal libre"</string>
+    <string name="wh_ratio_help">"Prioriza 16:9 o permite otras proporciones horizontales"</string>
+    <string name="wh_status_help">"Actual y siguiente en caché; pausa fuera del inicio o con Spotify activo"</string>
+    <string name="wh_current">"Página de la imagen actual"</string>
+    <string name="wh_current_help">"Consulta la publicación y los créditos en Wallhaven"</string>
+    <string name="wh_nature">"Naturaleza"</string>
+    <string name="wh_space">"Espacio"</string>
+    <string name="wh_cities">"Ciudades"</string>
+    <string name="wh_minimal">"Minimalismo"</string>
+    <string name="wh_games">"Juegos"</string>
+    <string name="wh_abstract">"Abstracto"</string>
+    <string name="wh_custom">"Búsqueda, etiqueta o colección personalizada"</string>
+    <string name="wh_input">"Ej.: nature o https://wallhaven.cc/search?q=nature"</string>
+    <string name="wh_invalid">"Usa palabras clave o un enlace HTTPS de búsqueda, etiqueta o colección pública de Wallhaven."</string>
+    <string name="wh_interval">"Intervalo entre fondos"</string>
+    <string name="wh_minutes_error">"Introduce de 1 a 1440 minutos"</string>
+    <string name="wh_http">"Wallhaven devolvió HTTP %1$s. Se conserva la última imagen válida; se reintentará más tarde."</string>
+    <string name="wh_ready">"Listo · imagen actual y siguiente en caché"</string>
+    <string name="wh_single">"Imagen actual lista · no hay otra imagen compatible en esta lista"</string>
+    <string name="wh_empty">"No hay imágenes compatibles. Prueba otro tema, Full HD u otra proporción horizontal."</string>
+    <string name="wh_pending">"Selecciona Wallhaven y vuelve al inicio para preparar las imágenes."</string>
+    <string name="wh_error">"No se pudo preparar la imagen. Se conserva la imagen anterior."</string>
+    <string name="wp_fit">"Ajuste de la imagen"</string>
+    <string name="wp_fit_help">"Estirar llena la pantalla sin recortes ni bordes, cambiando las proporciones"</string>
+    <string name="wp_stretch">"Estirar · sin recortes ni bordes"</string>
+    <string name="wp_crop">"Rellenar · recortar sobrantes"</string>
+    <string name="wp_contain">"Ajustar · conservar proporciones"</string>
+    <string name="wp_contrast">"Contraste automático del texto"</string>
+    <string name="wp_contrast_help">"Adapta el color y la sombra al fondo de cada zona con una transición suave"</string>
+</resources>

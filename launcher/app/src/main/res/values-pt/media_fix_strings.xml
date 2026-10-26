@@ -1,0 +1,5 @@
+<resources>
+<string name="theme_remote_help">Prévia com as setas · prima OK no tema para aplicar</string>
+<string name="media_reset_help">Após limpar os dados, reative as linhas e restaure o acesso às listas pelo script de atualização. Se o acesso estiver OK e as listas vazias, abra novamente os apps que publicam o conteúdo.</string>
+<string name="media_access_prompt">Para mostrar o Spotify no ecrã inicial, autorize o launcher a aceder às sessões de multimédia no próximo ecrã.</string>
+</resources>

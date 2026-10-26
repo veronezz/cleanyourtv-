@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="handle_inputs_title">"Handle the TV input button"</string>
+    <string name="handle_inputs_help">"Open the launcher input menu when the firmware has no working input picker; off by default"</string>
+</resources>

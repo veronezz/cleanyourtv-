@@ -1,0 +1,4 @@
+<resources>
+    <item name="media_row_heading" type="id"/>
+    <item name="media_player_panel" type="id"/>
+</resources>

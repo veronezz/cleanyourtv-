@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Taal"</string>
+    <string name="language_system">"Systeem volgen"</string>
+    <string name="settings_home">"Startscherm"</string>
+    <string name="ui_planos_de_fundo_56a6">"Achtergronden"</string>
+    <string name="ui_clima_6165">"Weer"</string>
+    <string name="ui_midia_e_sistema_193a">"Media en systeem"</string>
+    <string name="ui_projeto_2264">"Project"</string>
+    <string name="app_library">"Appbibliotheek"</string>
+</resources>

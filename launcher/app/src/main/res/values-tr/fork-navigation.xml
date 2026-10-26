@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Dil"</string>
+    <string name="language_system">"Sistemi takip et"</string>
+    <string name="settings_home">"Ana ekran"</string>
+    <string name="ui_planos_de_fundo_56a6">"Duvar kâğıtları"</string>
+    <string name="ui_clima_6165">"Hava durumu"</string>
+    <string name="ui_midia_e_sistema_193a">"Medya ve sistem"</string>
+    <string name="ui_projeto_2264">"Proje"</string>
+    <string name="app_library">"Uygulama kitaplığı"</string>
+</resources>

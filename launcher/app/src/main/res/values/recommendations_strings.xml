@@ -1,0 +1,8 @@
+<resources>
+<string name="recommendations_title">Recommendations</string>
+<string name="recommendations_setting">YouTube and TizenTube channels</string>
+<string name="recommendations_help">Show public Android TV channels from installed apps. Content depends on what each app publishes.</string>
+<string name="recommendations_disabled">YouTube recommendations disabled</string>
+<string name="recommendations_status">%1$d recommendation channels · %2$d videos</string>
+<string name="recommendations_unavailable">Recommendations unavailable: %1$s</string>
+</resources>

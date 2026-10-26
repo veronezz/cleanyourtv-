@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"שפה"</string>
+    <string name="language_system">"לפי המערכת"</string>
+    <string name="settings_home">"מסך הבית"</string>
+    <string name="ui_planos_de_fundo_56a6">"רקעים"</string>
+    <string name="ui_clima_6165">"מזג אוויר"</string>
+    <string name="ui_midia_e_sistema_193a">"מדיה ומערכת"</string>
+    <string name="ui_projeto_2264">"הפרויקט"</string>
+    <string name="app_library">"ספריית אפליקציות"</string>
+</resources>

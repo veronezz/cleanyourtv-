@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Ngôn ngữ"</string>
+    <string name="language_system">"Theo hệ thống"</string>
+    <string name="settings_home">"Màn hình chính"</string>
+    <string name="ui_planos_de_fundo_56a6">"Hình nền"</string>
+    <string name="ui_clima_6165">"Thời tiết"</string>
+    <string name="ui_midia_e_sistema_193a">"Đa phương tiện và hệ thống"</string>
+    <string name="ui_projeto_2264">"Dự án"</string>
+    <string name="app_library">"Thư viện ứng dụng"</string>
+</resources>

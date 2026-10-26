@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Sprache"</string>
+    <string name="language_system">"Systemsprache verwenden"</string>
+    <string name="settings_home">"Startbildschirm"</string>
+    <string name="ui_planos_de_fundo_56a6">"Hintergründe"</string>
+    <string name="ui_clima_6165">"Wetter"</string>
+    <string name="ui_midia_e_sistema_193a">"Medien und System"</string>
+    <string name="ui_projeto_2264">"Projekt"</string>
+    <string name="app_library">"App-Bibliothek"</string>
+</resources>

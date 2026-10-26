@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wh_source">"Tema ou coleção do Wallhaven"</string>
+    <string name="wh_source_help">"Temas prontos, palavras-chave, tags ou coleção pública"</string>
+    <string name="wh_quality">"Resolução mínima da origem"</string>
+    <string name="wh_quality_help">"A imagem é preparada para a resolução da interface e memória disponível"</string>
+    <string name="wh_ratio">"Proporção da origem"</string>
+    <string name="wh_horizontal">"Horizontal livre"</string>
+    <string name="wh_ratio_help">"Priorize 16:9 ou aceite outras proporções horizontais"</string>
+    <string name="wh_status_help">"Atual e próxima em cache; suspensão fora da Home ou com Spotify ativo"</string>
+    <string name="wh_current">"Página da imagem atual"</string>
+    <string name="wh_current_help">"Veja a publicação e os créditos no Wallhaven"</string>
+    <string name="wh_nature">"Natureza"</string>
+    <string name="wh_space">"Espaço"</string>
+    <string name="wh_cities">"Cidades"</string>
+    <string name="wh_minimal">"Minimalista"</string>
+    <string name="wh_games">"Jogos"</string>
+    <string name="wh_abstract">"Abstrato"</string>
+    <string name="wh_custom">"Busca, tag ou coleção personalizada"</string>
+    <string name="wh_input">"Ex.: nature ou https://wallhaven.cc/search?q=nature"</string>
+    <string name="wh_invalid">"Use palavras-chave ou um link HTTPS de busca, tag ou coleção pública do Wallhaven."</string>
+    <string name="wh_interval">"Intervalo entre wallpapers"</string>
+    <string name="wh_minutes_error">"Use de 1 a 1440 minutos"</string>
+    <string name="wh_http">"Wallhaven retornou HTTP %1$s. A última imagem válida será mantida; nova tentativa depois."</string>
+    <string name="wh_ready">"Pronto · imagem atual e próxima em cache"</string>
+    <string name="wh_single">"Imagem atual pronta · sem outra imagem compatível nessa lista"</string>
+    <string name="wh_empty">"Nenhuma imagem compatível. Tente outro tema, Full HD ou proporção horizontal livre."</string>
+    <string name="wh_pending">"Selecione Wallhaven e volte à Home para preparar as imagens."</string>
+    <string name="wh_error">"Não foi possível preparar a imagem. A imagem anterior será mantida."</string>
+    <string name="wp_fit">"Ajuste da imagem"</string>
+    <string name="wp_fit_help">"Esticar ocupa a tela inteira, sem cortes ou bordas, alterando as proporções"</string>
+    <string name="wp_stretch">"Esticar · sem cortes ou bordas"</string>
+    <string name="wp_crop">"Preencher · recortar sobras"</string>
+    <string name="wp_contain">"Ajustar · preservar proporções"</string>
+    <string name="wp_contrast">"Contraste automático dos textos"</string>
+    <string name="wp_contrast_help">"Adapta cor e sombra ao fundo de cada área, com transição suave"</string>
+</resources>

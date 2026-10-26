@@ -1,0 +1,3 @@
+Copie sua debug.keystore original para esta pasta, ou informe seu caminho em UNITV_LAUNCHER_KEY.
+A chave não acompanha este projeto. Preserve a original para manter a assinatura e instalar atualizações.
+O arquivo expected-certificate.sha256 contém somente o hash público do certificado esperado.

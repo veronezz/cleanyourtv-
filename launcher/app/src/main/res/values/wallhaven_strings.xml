@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wh_source">"Wallhaven topic or collection"</string>
+    <string name="wh_source_help">"Presets, keywords, tags or a public collection"</string>
+    <string name="wh_quality">"Minimum source resolution"</string>
+    <string name="wh_quality_help">"Images are prepared for the interface resolution and available memory"</string>
+    <string name="wh_ratio">"Source aspect ratio"</string>
+    <string name="wh_horizontal">"Any landscape ratio"</string>
+    <string name="wh_ratio_help">"Prefer 16:9 or allow other landscape ratios"</string>
+    <string name="wh_status_help">"Current and next cached; paused away from Home or while Spotify is active"</string>
+    <string name="wh_current">"Current image page"</string>
+    <string name="wh_current_help">"View the image page and credits on Wallhaven"</string>
+    <string name="wh_nature">"Nature"</string>
+    <string name="wh_space">"Space"</string>
+    <string name="wh_cities">"Cities"</string>
+    <string name="wh_minimal">"Minimalism"</string>
+    <string name="wh_games">"Games"</string>
+    <string name="wh_abstract">"Abstract"</string>
+    <string name="wh_custom">"Custom search, tag or collection"</string>
+    <string name="wh_input">"E.g. nature or https://wallhaven.cc/search?q=nature"</string>
+    <string name="wh_invalid">"Use keywords or an HTTPS Wallhaven search, tag or public collection link."</string>
+    <string name="wh_interval">"Wallpaper interval"</string>
+    <string name="wh_minutes_error">"Enter 1 to 1440 minutes"</string>
+    <string name="wh_http">"Wallhaven returned HTTP %1$s. The last valid image is kept; retrying later."</string>
+    <string name="wh_ready">"Ready · current and next image cached"</string>
+    <string name="wh_single">"Current image ready · no other compatible image in this list"</string>
+    <string name="wh_empty">"No compatible images. Try another topic, Full HD or any landscape ratio."</string>
+    <string name="wh_pending">"Select Wallhaven and return Home to prepare images."</string>
+    <string name="wh_error">"Unable to prepare the image. The previous image is kept."</string>
+    <string name="wp_fit">"Image fit"</string>
+    <string name="wp_fit_help">"Stretch fills the screen without cropping or borders, changing proportions"</string>
+    <string name="wp_stretch">"Stretch · no cropping or borders"</string>
+    <string name="wp_crop">"Fill · crop excess"</string>
+    <string name="wp_contain">"Fit · preserve proportions"</string>
+    <string name="wp_contrast">"Automatic text contrast"</string>
+    <string name="wp_contrast_help">"Adapts color and shadow to each background area with a smooth transition"</string>
+</resources>

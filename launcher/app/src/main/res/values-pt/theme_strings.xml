@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="theme_title">"Tema"</string>
+    <string name="theme_default">"Padrão"</string>
+    <string name="theme_smoked">"Smoked Glass"</string>
+    <string name="theme_help">"Escolha o material dos painéis e menus"</string>
+    <string name="theme_choose">"Escolha um tema"</string>
+    <string name="theme_preview">"Prévia · suas alterações só serão salvas ao aplicar"</string>
+    <string name="theme_default_detail">"O visual atual, com painéis e brilho suave"</string>
+    <string name="theme_smoked_detail">"Vidro fumê com fundo desfocado uma vez ao abrir"</string>
+    <string name="theme_apply">"Aplicar tema"</string>
+    <string name="theme_cancel">"Cancelar"</string>
+    <string name="theme_sample">"Seus aplicativos"</string>
+    <string name="theme_sample_detail">"Transparência, contraste e profundidade"</string>
+    <string name="theme_selected">"Selecionado"</string>
+</resources>

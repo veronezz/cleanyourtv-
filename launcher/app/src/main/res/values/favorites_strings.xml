@@ -1,0 +1,15 @@
+<resources>
+    <string name="theme_ios_dark_detail">Dark glass panels with the iOS layout</string>
+    <string name="fav_title">Favorite wallpapers</string>
+    <string name="fav_gallery">Gallery</string>
+    <string name="fav_empty">No favorites yet. Show a wallpaper on Home, then choose Favorite current wallpaper.</string>
+    <string name="fav_save">Favorite current wallpaper</string>
+    <string name="fav_add">Save</string>
+    <string name="fav_save_help">Saves the wallpaper locally, independently of its source and theme. Spotify artwork is not saved.</string>
+    <string name="fav_saved">Wallpaper saved in favorites</string>
+    <string name="fav_failed">Could not save. Show a wallpaper on Home first and check available storage. Collection limit: 200.</string>
+    <string name="fav_help">Choose an image to use the offline collection. It rotates at the configured interval, with Spotify priority.</string>
+    <string name="fav_item_help">Press OK to use or remove</string>
+    <string name="fav_use">Use collection starting here</string>
+    <string name="fav_remove">Remove from favorites</string>
+</resources>

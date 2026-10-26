@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Idioma"</string>
+    <string name="language_system">"Segueix el sistema"</string>
+    <string name="settings_home">"Pantalla d’inici"</string>
+    <string name="ui_planos_de_fundo_56a6">"Fons de pantalla"</string>
+    <string name="ui_clima_6165">"Temps"</string>
+    <string name="ui_midia_e_sistema_193a">"Multimèdia i sistema"</string>
+    <string name="ui_projeto_2264">"Projecte"</string>
+    <string name="app_library">"Biblioteca d’aplicacions"</string>
+</resources>
