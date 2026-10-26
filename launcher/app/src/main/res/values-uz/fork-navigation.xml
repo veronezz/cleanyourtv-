@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Til"</string>
+    <string name="language_system">"Tizim tilidan foydalanish"</string>
+    <string name="settings_home">"Bosh ekran"</string>
+    <string name="ui_planos_de_fundo_56a6">"Fon rasmlari"</string>
+    <string name="ui_clima_6165">"Ob-havo"</string>
+    <string name="ui_midia_e_sistema_193a">"Media va tizim"</string>
+    <string name="ui_projeto_2264">"Loyiha"</string>
+    <string name="app_library">"Ilovalar kutubxonasi"</string>
+</resources>

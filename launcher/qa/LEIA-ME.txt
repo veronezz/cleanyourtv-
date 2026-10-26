@@ -1,0 +1,12 @@
+Validação opcional de UI e cache
+
+Os 84 testes JVM básicos rodam com:
+  ./gradlew :app:testReleaseUnitTest
+
+Incluindo UI, idiomas, desempenho, temas, Wallhaven e contraste:
+  ./gradlew -I qa/qa.gradle :app:testReleaseUnitTest
+
+Total atual: 119 testes (84 JVM + 35 Android simulados).
+Use JDK 17 e um ambiente compatível com o modo gráfico nativo do Robolectric 4.14.1.
+As imagens ficam em app/build/reports/visual-qa. As dependências de teste não entram no APK.
+A rede dos testes é simulada; não valida o acesso real ao Wallhaven ou Reddit.

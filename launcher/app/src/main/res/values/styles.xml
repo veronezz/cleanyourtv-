@@ -17,7 +17,7 @@
         <item name="android:background">@drawable/pill_bg</item>
         <item name="android:textColor">@drawable/pill_text</item>
         <item name="android:textSize">15sp</item>
-        <item name="android:fontFamily">@font/outfit_medium</item>
+        <item name="android:fontFamily">@font/outfit</item>
         <item name="android:letterSpacing">0.01</item>
         <item name="android:drawablePadding">9dp</item>
         <item name="android:drawableTint">@drawable/pill_text</item>
@@ -25,32 +25,36 @@
         <item name="android:clickable">true</item>
     </style>
     <style name="TopButton" parent="TopButtonBase" />
-
-    <!-- Icon-only pill: a 42dp circle (pill_bg's 21dp corners) with the 22dp icon centred by even padding. Give it a
-         contentDescription, since there is no text. -->
-    <style name="TopButtonIcon" parent="TopButtonBase">
+    <style name="RoundTopButton" parent="TopButtonBase">
         <item name="android:layout_width">42dp</item>
-        <item name="android:paddingStart">10dp</item>
-        <item name="android:paddingEnd">10dp</item>
+        <item name="android:paddingStart">9dp</item>
+        <item name="android:paddingEnd">9dp</item>
         <item name="android:drawablePadding">0dp</item>
     </style>
-
-    <style name="SettingsRow">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">52dp</item>
-        <item name="android:gravity">center_vertical</item>
-        <item name="android:paddingStart">18dp</item>
-        <item name="android:paddingEnd">18dp</item>
-        <item name="android:background">@drawable/settings_choice_bg</item>
-        <item name="android:textColor">#FFFFFFFF</item>
-        <item name="android:textSize">18sp</item>
-        <item name="android:focusable">true</item>
-        <item name="android:clickable">true</item>
+    <style name="GlassDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/glass_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/glass_dialog_exit</item>
     </style>
-    <style name="SettingsColumnChoice" parent="SettingsRow">
-        <item name="android:layout_width">0dp</item>
-        <item name="android:layout_weight">1</item>
-        <item name="android:layout_marginEnd">10dp</item>
-        <item name="android:gravity">center</item>
+    <style name="Theme.TvHome.GlassDialog" parent="android:style/Theme.Material.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/glass_dialog_panel</item>
+        <item name="android:colorAccent">#B9E5FF</item>
+        <item name="android:textColorPrimary">#F2F7FF</item>
+        <item name="android:textColorSecondary">#B3C8DC</item>
+        <item name="android:fontFamily">@font/outfit</item>
+    </style>
+    <style name="Theme.TvHome.SmokedDialog" parent="Theme.TvHome.GlassDialog">
+        <item name="android:windowBackground">@drawable/smoked_dialog_panel</item>
+        <item name="android:backgroundDimAmount">0.18</item>
+    </style>
+    <style name="Theme.TvHome.IosDialog" parent="android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/ios_dialog_panel</item>
+        <item name="android:colorAccent">#2769C4</item>
+        <item name="android:textColorPrimary">#202733</item>
+        <item name="android:textColorSecondary">#596575</item>
+        <item name="android:fontFamily">@font/outfit</item>
+    </style>
+    <style name="Theme.TvHome.IosDarkDialog" parent="Theme.TvHome.GlassDialog">
+        <item name="android:windowBackground">@drawable/ios_dark_dialog_panel</item>
+        <item name="android:colorAccent">#A6C8F4</item>
     </style>
 </resources>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Kieli"</string>
+    <string name="language_system">"Seuraa järjestelmää"</string>
+    <string name="settings_home">"Aloitusnäyttö"</string>
+    <string name="ui_planos_de_fundo_56a6">"Taustakuvat"</string>
+    <string name="ui_clima_6165">"Sää"</string>
+    <string name="ui_midia_e_sistema_193a">"Media ja järjestelmä"</string>
+    <string name="ui_projeto_2264">"Projekti"</string>
+    <string name="app_library">"Sovelluskirjasto"</string>
+</resources>

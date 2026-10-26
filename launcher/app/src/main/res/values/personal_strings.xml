@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ui_sua_tela_do_seu_jeito_ef95" formatted="false">HOME SCREEN</string>
+    <string name="ui_preferencias_4dc4" formatted="false">"Preferences"</string>
+    <string name="ui_previa_fixa_da_tela_inicial_42a9" formatted="false">"Static home screen preview"</string>
+    <string name="ui_previa_fixa_e93f" formatted="false">"STATIC PREVIEW"</string>
+    <string name="ui_versao_802c" formatted="false">"Version "</string>
+    <string name="project_slogan">Based on CleanYourTV</string>
+    <string name="ui_aparencia_28bd" formatted="false">"Appearance"</string>
+    <string name="ui_ajuste_o_espaco_e_o_movimento_e2ef" formatted="false">"Adjust spacing and motion"</string>
+    <string name="ui_grade_e_dock_a8d5" formatted="false">"Grid and dock"</string>
+    <string name="ui_colunas_307d" formatted="false">" columns"</string>
+    <string name="ui_quantidade_de_aplicativos_em_cada_fileira_95f1" formatted="false">"Number of apps in each row"</string>
+    <string name="ui_colunas_5d93" formatted="false">"Columns"</string>
+    <string name="ui_abaixo_da_dock_84c2" formatted="false">"Below the dock"</string>
+    <string name="ui_fileira_f79e" formatted="false">" row"</string>
+    <string name="ui_fileiras_ac57" formatted="false">" rows"</string>
+    <string name="ui_fileiras_de_aplicativos_adicionais_728e" formatted="false">"Additional app rows"</string>
+    <string name="ui_fileiras_abaixo_da_dock_1aa6" formatted="false">"Rows below the dock"</string>
+    <string name="ui_luz_dos_aplicativos_7718" formatted="false">"App glow"</string>
+    <string name="ui_ativada_0284" formatted="false">"On"</string>
+    <string name="ui_desativada_50ab" formatted="false">"Off"</string>
+    <string name="ui_ativado_b655" formatted="false">"On"</string>
+    <string name="ui_desativado_7cfb" formatted="false">"Off"</string>
+    <string name="ui_ativadas_bc62" formatted="false">"On"</string>
+    <string name="ui_desativadas_0a2e" formatted="false">"Off"</string>
+    <string name="ui_brilho_suave_com_a_cor_do_app_em_foco_70c1" formatted="false">"Soft glow matching the focused app"</string>
+    <string name="ui_vidro_da_dock_beae" formatted="false">"Dock glass"</string>
+    <string name="ui_faixa_translucida_atras_dos_favoritos_882a" formatted="false">"Translucent band behind your favorites"</string>
+    <string name="ui_animacoes_reduzidas_0f76" formatted="false">"Reduced motion"</string>
+    <string name="ui_movimento_mais_discreto_para_a_navegacao_9750" formatted="false">"Gentler navigation animations"</string>
+    <string name="ui_planos_de_fundo_56a6" formatted="false">"Wallpapers"</string>
+    <string name="ui_seu_ambiente_com_prioridade_para_o_spotify_aac4" formatted="false">"Your space, with Spotify taking priority"</string>
+    <string name="ui_fonte_do_fundo_e0bf" formatted="false">"Wallpaper source"</string>
+    <string name="ui_galeria_d827" formatted="false">"Gallery"</string>
+    <string name="ui_escuro_8367" formatted="false">"Dark"</string>
+    <string name="ui_o_fundo_da_musica_aparece_acima_do_papel_de_parede_412b" formatted="false">"Music artwork takes priority over the wallpaper"</string>
+    <string name="ui_imagem_do_dispositivo_58a1" formatted="false">"Device image"</string>
+    <string name="ui_escolha_um_arquivo_salvo_na_tv_2b37" formatted="false">"Choose a file saved on your TV"</string>
+    <string name="ui_adicionar_link_4eb1" formatted="false">"Add link"</string>
+    <string name="ui_editar_link_8f99" formatted="false">"Edit link"</string>
+    <string name="ui_comunidade_publicacao_galeria_ou_imagem_direta_a824" formatted="false">"Community, post, gallery or direct image"</string>
+    <string name="ui_trocar_imagem_a_cada_f5a2" formatted="false">"Change image every"</string>
+    <string name="ui_mantem_somente_a_imagem_atual_e_a_proxima_d00a" formatted="false">"Keeps only the current and next image"</string>
+    <string name="ui_configurar_4984" formatted="false">"Set up"</string>
+    <string name="ui_configurado_c634" formatted="false">"Configured"</string>
+    <string name="ui_necessario_para_comunidades_posts_e_galerias_1c82" formatted="false">"Required for communities, posts and galleries"</string>
+    <string name="ui_status_da_rotacao_349d" formatted="false">"Rotation status"</string>
+    <string name="ui_consultar_775b" formatted="false">"View"</string>
+    <string name="ui_estado_dos_downloads_e_imagem_atual_13cb" formatted="false">"Download status and current image"</string>
+    <string name="ui_publicacao_da_imagem_atual_8f3c" formatted="false">"Current image source"</string>
+    <string name="ui_abrir_3110" formatted="false">"Open"</string>
+    <string name="ui_acesse_a_origem_da_imagem_exibida_6d73" formatted="false">"Visit the source of the displayed image"</string>
+    <string name="ui_aplicativos_3053" formatted="false">"Apps"</string>
+    <string name="ui_organizacao_e_visibilidade_aef5" formatted="false">"Order and visibility"</string>
+    <string name="ui_aplicativos_ocultos_71dd" formatted="false">"Hidden apps"</string>
+    <string name="ui_reexiba_os_atalhos_que_voce_ocultou_f293" formatted="false">"Show the shortcuts you have hidden"</string>
+    <string name="ui_restaurar_organizacao_1a61" formatted="false">"Reset app order"</string>
+    <string name="ui_restaurar_a703" formatted="false">"Reset"</string>
+    <string name="ui_retorna_a_ordem_inicial_sem_remover_os_apps_6a4b" formatted="false">"Restore the original order while keeping your apps"</string>
+    <string name="ui_restaurar_a_ordem_5eb0" formatted="false">"Reset app order?"</string>
+    <string name="ui_apenas_a_organizacao_da_tela_inicial_sera_restaurada_f656" formatted="false">"Only the home screen app order will be reset."</string>
+    <string name="ui_cancelar_9ddb" formatted="false">"Cancel"</string>
+    <string name="ui_salvar_ec33" formatted="false">"Save"</string>
+    <string name="ui_clima_6165" formatted="false">"Weather"</string>
+    <string name="ui_a_previsao_para_o_seu_lugar_8690" formatted="false">"The forecast for your location"</string>
+    <string name="ui_mostrar_clima_5737" formatted="false">"Show weather"</string>
+    <string name="ui_temperatura_e_condicoes_abaixo_do_relogio_408a" formatted="false">"Temperature and conditions below the clock"</string>
+    <string name="ui_cidade_7365" formatted="false">"City"</string>
+    <string name="ui_escolher_bcb5" formatted="false">"Choose"</string>
+    <string name="ui_busque_e_selecione_sua_cidade_b168" formatted="false">"Search for and select your city"</string>
+    <string name="ui_sobre_os_dados_a0f3" formatted="false">"About the data"</string>
+    <string name="ui_fontes_e_atribuicoes_d126" formatted="false">"Sources and credits"</string>
+    <string name="ui_clima_open_meteo_0877" formatted="false">"Weather · Open-Meteo"</string>
+    <string name="ui_modelos_meteorologicos_open_meteo_cc_by_4_0_cidades_geo_c619" formatted="false">"Weather models: Open-Meteo (CC BY 4.0). Cities: GeoNames. https://open-meteo.com/\n\nNo GPS. HTTPS requests for your selected city; refreshed every 30 minutes on the home screen."</string>
+    <string name="ui_midia_e_sistema_193a" formatted="false">"Media and system"</string>
+    <string name="ui_conexoes_com_a_sua_tv_928c" formatted="false">"Connections with your TV"</string>
+    <string name="ui_controles_de_midia_9a61" formatted="false">"Media controls"</string>
+    <string name="ui_permissoes_245f" formatted="false">"Permissions"</string>
+    <string name="ui_acesso_aos_metadados_da_sessao_do_spotify_b79c" formatted="false">"Access to Spotify session metadata"</string>
+    <string name="ui_o_script_de_atualizacao_pode_autorizar_o_servico_por_ad_c63a" formatted="false">"The update script can authorize the service through ADB. Access is used for the Spotify session."</string>
+    <string name="ui_diagnostico_de_midia_d670" formatted="false">"Media diagnostics"</string>
+    <string name="ui_listas_publicadas_pelos_apps_e_sessao_de_musica_02f2" formatted="false">"App content feeds and music session"</string>
+    <string name="ui_autorizada_f453" formatted="false">"authorized"</string>
+    <string name="ui_nao_autorizada_bdc5" formatted="false">"not authorized"</string>
+    <string name="ui_listas_de_tv_fde3" formatted="false">"TV listings: "</string>
+    <string name="ui_ainda_nao_consultadas_f926" formatted="false">"Not checked yet"</string>
+    <string name="ui_sessoes_ainda_nao_consultadas_6775" formatted="false">"Sessions not checked yet"</string>
+    <string name="ui_configuracoes_da_tv_200c" formatted="false">"TV settings"</string>
+    <string name="ui_preferencias_do_sistema_android_tv_df1e" formatted="false">"Android TV system settings"</string>
+    <string name="ui_configuracoes_cdaf" formatted="false">"Settings"</string>
+    <string name="ui_nao_foi_possivel_abrir_as_configuracoes_desta_tv_ec81" formatted="false">"Unable to open this TV\'s settings."</string>
+    <string name="ui_projeto_2264" formatted="false">"Project"</string>
+    <string name="ui_seu_fork_com_sua_identidade_525f" formatted="false">"Your fork, your identity"</string>
+    <string name="ui_repositorio_do_github_a74b" formatted="false">"GitHub repository"</string>
+    <string name="ui_use_o_endereco_do_seu_fork_quando_estiver_publicado_a0fe" formatted="false">"Enter your fork\'s address once it is published"</string>
+    <string name="ui_voltar_a_tela_inicial_2f58" formatted="false">"Return home"</string>
+    <string name="ui_concluir_5de4" formatted="false">"Done"</string>
+    <string name="ui_as_alteracoes_serao_aplicadas_ao_retornar_f302" formatted="false">"Changes are applied when you return"</string>
+    <string name="ui_galeria_indisponivel_92d4" formatted="false">"Gallery unavailable"</string>
+    <string name="ui_instale_um_seletor_de_arquivos_ou_escolha_outra_fonte_d_453b" formatted="false">"Install a file picker or choose another wallpaper source."</string>
+    <string name="ui_fonte_de_papeis_de_parede_c2f5" formatted="false">"Wallpaper source"</string>
+    <string name="ui_preparando_a_fonte_ao_voltar_a_tela_inicial_646a" formatted="false">"Preparing the source when you return home…"</string>
+    <string name="ui_minutos_1_a_1440_800e" formatted="false">"Minutes (1 to 1440)"</string>
+    <string name="ui_intervalo_entre_imagens_f449" formatted="false">"Image interval"</string>
+    <string name="ui_de_1_minuto_a_24_horas_o_cache_mantem_apenas_a_imagem_a_281b" formatted="false">"From 1 minute to 24 hours. The cache keeps only the current and next image."</string>
+    <string name="ui_use_de_1_a_1440_minutos_1547" formatted="false">"Enter 1 to 1440 minutes"</string>
+    <string name="ui_client_id_do_app_instalado_856d" formatted="false">"Installed app Client ID"</string>
+    <string name="ui_client_id_invalido_ac50" formatted="false">"Invalid Client ID"</string>
+    <string name="ui_informe_o_usuario_publico_do_responsavel_41dc" formatted="false">"Enter the developer\'s public username"</string>
+    <string name="ui_imagem_atual_5589" formatted="false">"Current image"</string>
+    <string name="ui_repositorio_do_projeto_ddc1" formatted="false">"Project repository"</string>
+    <string name="ui_abrir_link_e5bf" formatted="false">"Open link"</string>
+    <string name="ui_n_nnao_ha_um_navegador_disponivel_nesta_tv_f777" formatted="false">"\n\nNo browser is available on this TV."</string>
+    <string name="ui_nenhum_aplicativo_foi_ocultado_segure_ok_sobre_um_app_e_5823" formatted="false">"No apps are hidden. Hold OK on an app and choose Hide app."</string>
+    <string name="ui_selecione_os_apps_para_reexibir_c176" formatted="false">"Select apps to show again"</string>
+    <string name="ui_reexibir_7d87" formatted="false">"Show again"</string>
+    <string name="ui_reexibir_todos_32be" formatted="false">"Show all"</string>
+    <string name="ui_escolha_o_visual_da_sua_tela_inicial_6472" formatted="false">"Choose your home screen style"</string>
+    <string name="ui_aurora_suave_5be8" formatted="false">"Soft aurora"</string>
+    <string name="ui_degrade_escuro_0e69" formatted="false">"Dark gradient"</string>
+    <string name="ui_imagem_da_galeria_0fe3" formatted="false">"Gallery image"</string>
+    <string name="ui_azul_e_violeta_com_luz_suave_3bb1" formatted="false">"Blue and violet with soft light"</string>
+    <string name="ui_preto_e_azul_com_menos_distracoes_a800" formatted="false">"Black and blue with fewer distractions"</string>
+    <string name="ui_usar_uma_imagem_do_dispositivo_284f" formatted="false">"Use an image from your device"</string>
+    <string name="ui_comunidade_post_galeria_ou_imagem_direta_c95f" formatted="false">"Community, post, gallery or direct image"</string>
+    <string name="ui_ex_sao_paulo_dad2" formatted="false">"E.g. London"</string>
+    <string name="ui_cidade_do_clima_a5ce" formatted="false">"Weather city"</string>
+    <string name="ui_digite_a_cidade_a_busca_usa_a_open_meteo_e_permite_esco_8297" formatted="false">"Enter a city. Open-Meteo search lets you choose between cities with the same name."</string>
+    <string name="ui_buscar_cefb" formatted="false">"Search"</string>
+    <string name="ui_digite_pelo_menos_duas_letras_cf1c" formatted="false">"Enter at least two letters"</string>
+    <string name="ui_nome_longo_demais_34f1" formatted="false">"Name is too long"</string>
+    <string name="ui_buscando_cidades_b3d4" formatted="false">"Searching for cities…"</string>
+    <string name="ui_cidade_nao_encontrada_5a7b" formatted="false">"City not found"</string>
+    <string name="ui_tente_apenas_o_nome_da_cidade_sem_estado_ou_pais_6073" formatted="false">"Try only the city name, without state or country."</string>
+    <string name="ui_selecione_sua_cidade_0fe1" formatted="false">"Select your city"</string>
+    <string name="ui_busca_indisponivel_8c19" formatted="false">"Search unavailable"</string>
+    <string name="ui_confira_a_conexao_da_tv_e_tente_novamente_1454" formatted="false">"Check the TV\'s connection and try again."</string>
+    <string name="ui_preparando_papel_de_parede_08a9" formatted="false">"Preparing wallpaper…"</string>
+    <string name="ui_imagem_indisponivel_dcd9" formatted="false">"Image unavailable"</string>
+    <string name="ui_escolha_uma_imagem_valida_com_ate_20_mb_e174" formatted="false">"Choose a valid image up to 20 MB."</string>
+    <string name="ui_personalize_este_aplicativo_na_sua_tela_inicial_f2ac" formatted="false">"Customize this app on your home screen"</string>
+    <string name="ui_mover_aplicativo_48b2" formatted="false">"Move app"</string>
+    <string name="ui_renomear_02da" formatted="false">"Rename"</string>
+    <string name="ui_trocar_icone_ou_imagem_2b0b" formatted="false">"Change icon or image"</string>
+    <string name="ui_restaurar_nome_e_icone_0070" formatted="false">"Reset name and icon"</string>
+    <string name="ui_informacoes_do_aplicativo_4764" formatted="false">"App info"</string>
+    <string name="ui_ocultar_aplicativo_c8f8" formatted="false">"Hide app"</string>
+    <string name="ui_preferencias_da_tela_inicial_6003" formatted="false">"Home screen preferences"</string>
+    <string name="ui_escolha_a_posicao_na_grade_ou_na_dock_3a06" formatted="false">"Choose a position in the grid or dock"</string>
+    <string name="ui_altere_apenas_o_nome_do_atalho_65ae" formatted="false">"Change only the shortcut\'s name"</string>
+    <string name="ui_galeria_ou_imagem_de_outro_app_instalado_5205" formatted="false">"Gallery or another installed app\'s image"</string>
+    <string name="ui_volte_a_aparencia_original_77e8" formatted="false">"Restore the original appearance"</string>
+    <string name="ui_abra_os_detalhes_no_android_tv_9044" formatted="false">"Open details in Android TV"</string>
+    <string name="ui_mantenha_instalado_mas_fora_da_tela_inicial_f368" formatted="false">"Keep installed and hide from the home screen"</string>
+    <string name="ui_aparencia_fundos_clima_e_organizacao_ced6" formatted="false">"Appearance, wallpapers, weather and layout"</string>
+    <string name="ui_mover_use_as_setas_ok_salva_voltar_cancela_9cb2" formatted="false">"Move: use arrows · OK saves · Back cancels"</string>
+    <string name="ui_ocultar_aplicativo_e348" formatted="false">"Hide app?"</string>
+    <string name="ui_o_app_continuara_instalado_para_reexibi_lo_abra_prefere_7d91" formatted="false">"The app stays installed. To show it again, open Preferences &gt; Hidden apps."</string>
+    <string name="ui_ocultar_4d62" formatted="false">"Hide"</string>
+    <string name="ui_ordem_dos_aplicativos_salva_2703" formatted="false">"App order saved"</string>
+    <string name="ui_nome_no_launcher_be91" formatted="false">"Launcher name"</string>
+    <string name="ui_digite_um_nome_a5bc" formatted="false">"Enter a name"</string>
+    <string name="ui_a_aparencia_muda_so_aqui_no_launcher_3afe" formatted="false">"Changes apply only here in the launcher"</string>
+    <string name="ui_selecionar_arquivo_do_dispositivo_68a1" formatted="false">"Choose a device file"</string>
+    <string name="ui_usar_imagem_de_um_app_instalado_1736" formatted="false">"Use an installed app\'s image"</string>
+    <string name="ui_png_jpg_ou_webp_da_sua_galeria_a15e" formatted="false">"PNG, JPG or WebP from your gallery"</string>
+    <string name="ui_escolha_um_banner_ou_icone_original_6e69" formatted="false">"Choose an original banner or icon"</string>
+    <string name="ui_nenhum_aplicativo_disponivel_1b08" formatted="false">"No apps available"</string>
+    <string name="ui_banner_da_tv_9a7c" formatted="false">" · TV banner"</string>
+    <string name="ui_icone_d889" formatted="false">" · icon"</string>
+    <string name="ui_imagem_de_um_app_instalado_4f7b" formatted="false">"Installed app image"</string>
+    <string name="ui_nao_foi_possivel_copiar_a_imagem_do_app_0a4e" formatted="false">"Unable to copy the app\'s image"</string>
+    <string name="ui_seletor_de_imagens_indisponivel_17f5" formatted="false">"Image picker unavailable"</string>
+    <string name="ui_esta_tv_precisa_de_um_seletor_de_documentos_compativel__c0cd" formatted="false">"This TV needs a compatible document picker to choose an image. The original icon will be kept."</string>
+    <string name="ui_nao_foi_possivel_usar_a_imagem_escolha_jpg_png_ou_webp__1657" formatted="false">"Unable to use this image. Choose JPG, PNG or WebP up to 20 MB."</string>
+    <string name="ui_abrir_spotify_1bb6" formatted="false">"Open Spotify"</string>
+    <string name="ui_anterior_b8f3" formatted="false">"Previous"</string>
+    <string name="ui_pausar_908b" formatted="false">"Pause"</string>
+    <string name="ui_proxima_e3a5" formatted="false">"Next"</string>
+    <string name="ui_reproduzir_1928" formatted="false">"Play"</string>
+    <string name="ui_acesso_as_sessoes_de_midia_nao_autorizado_cf79" formatted="false">"Media session access not authorized"</string>
+    <string name="ui_acesso_autorizado_nenhuma_sessao_ativa_do_spotify_bd78" formatted="false">"Access authorized; no active Spotify session"</string>
+    <string name="ui_sessao_ativa_do_spotify_disponivel_5f5c" formatted="false">"Active Spotify session available"</string>
+    <string name="ui_total_nao_informado_4295" formatted="false">"total unavailable"</string>
+    <string name="ui_faltam_03dc" formatted="false">" · remaining "</string>
+    <string name="ui_o_spotify_nao_respondeu_ao_controle_5836" formatted="false">"Spotify did not respond to the control"</string>
+    <string name="ui_continuar_assistindo_0833" formatted="false">"Continue watching"</string>
+    <string name="ui_nenhum_item_acessivel_os_apps_precisam_publicar_a_serie_3c96" formatted="false">"No accessible items. Apps must publish the show, link and playback position to Android."</string>
+    <string name="ui_tv_ao_vivo_globoplay_731d" formatted="false">"Live TV · Globoplay"</string>
+    <string name="ui_abrir_globoplay_1f24" formatted="false">"Open Globoplay"</string>
+    <string name="ui_escolha_agora_na_tv_dentro_do_aplicativo_7039" formatted="false">"Choose Agora na TV inside the app"</string>
+    <string name="ui_o_link_nao_abriu_retomada_disponivel_dentro_do_app_a0a8" formatted="false">"The link did not open; resume inside the app"</string>
+    <string name="ui_aplicativo_indisponivel_3e8b" formatted="false">"App unavailable"</string>
+    <string name="ui_nao_foi_possivel_abrir_o_aplicativo_9335" formatted="false">"Unable to open the app"</string>
+    <string name="ui_clima_escolha_sua_cidade_nas_preferencias_79c5" formatted="false">"Weather · choose your city in preferences"</string>
+    <string name="ui_clima_indisponivel_1b14" formatted="false">" · weather unavailable"</string>
+    <string name="ui_ultima_atualizacao_e05a" formatted="false">" · last update"</string>
+    <string name="ui_ceu_limpo_82f0" formatted="false">"Clear sky"</string>
+    <string name="ui_noite_limpa_529c" formatted="false">"Clear night"</string>
+    <string name="ui_parcialmente_nublado_7acc" formatted="false">"Partly cloudy"</string>
+    <string name="ui_nublado_1de1" formatted="false">"Cloudy"</string>
+    <string name="ui_nevoeiro_8dc0" formatted="false">"Fog"</string>
+    <string name="ui_garoa_0867" formatted="false">"Drizzle"</string>
+    <string name="ui_chuva_066c" formatted="false">"Rain"</string>
+    <string name="ui_neve_c910" formatted="false">"Snow"</string>
+    <string name="ui_trovoadas_bebf" formatted="false">"Thunderstorms"</string>
+    <string name="ui_condicoes_atuais_d780" formatted="false">"Current conditions"</string>
+    <string name="ui_tv_home_aplicativos_b7dc" formatted="false">"TV HOME  /  APPS"</string>
+    <string name="ui_voltar_fechar_eceb" formatted="false">"BACK  ·  close"</string>
+    <string name="ui_proximo_episodio_0ceb" formatted="false">"Next episode"</string>
+    <string name="ui_posicao_nao_informada_pelo_app_3c86" formatted="false">"Position not provided by the app"</string>
+    <string name="ui_ao_vivo_globoplay_7da9" formatted="false">"Live · Globoplay"</string>
+    <string name="language_title">"Language"</string>
+    <string name="language_system">"Follow system"</string>
+    <string name="language_help">"Uses the TV language by default; English when no translation is available"</string>
+    <string name="resume_at">"Resume at %1$s"</string>
+    <string name="ui_nao_foi_possivel_preparar_o_papel_de_parede_tente_mais__af6e" formatted="false">"Unable to prepare the wallpaper. Try again later."</string>
+    <string name="ui_nenhuma_imagem_horizontal_compativel_foi_publicada_ness_fb77" formatted="false">"No compatible landscape images were published in this source."</string>
+    <string name="ui_pronto_imagem_atual_e_proxima_em_cache_d219" formatted="false">"Ready · current and next image cached"</string>
+    <string name="ui_imagem_atual_pronta_a_fonte_pode_conter_apenas_uma_imag_f32e" formatted="false">"Current image ready · the source may contain only one image"</string>
+    <string name="ui_fonte_indisponivel_0d2c" formatted="false">"Source unavailable"</string>
+    <string name="ui_endereco_de_imagem_invalido_4a48" formatted="false">"Invalid image address"</string>
+    <string name="ui_o_link_nao_retornou_uma_imagem_accd" formatted="false">"The link did not return an image"</string>
+    <string name="ui_imagem_maior_que_20_mb_7453" formatted="false">"Image exceeds 20 MB"</string>
+    <string name="ui_imagem_incompativel_70a0" formatted="false">"Unsupported image"</string>
+    <string name="ui_imagem_invalida_f300" formatted="false">"Invalid image"</string>
+    <string name="ui_nao_foi_possivel_preparar_a_imagem_1969" formatted="false">"Unable to prepare the image"</string>
+    <string name="ui_nao_foi_possivel_salvar_a_imagem_19a6" formatted="false">"Unable to save the image"</string>
+    <string name="ui_resposta_grande_demais_be7c" formatted="false">"Response is too large"</string>
+    <string name="ui_vpn_desligada_a31a" formatted="false">" · VPN off"</string>
+    <string name="diagnostic_watch">" %1$d accessible Watch Next items"</string>
+    <string name="diagnostic_live">" %1$d live items published by Globoplay"</string>
+    <string name="diagnostic_channels">" %1$d live items/channels published by Globoplay"</string>
+    <string name="http_image_error">"Image unavailable (HTTP %1$s)"</string>
+    <string name="unavailable_watch">"Watch Next unavailable: %1$s"</string>
+    <string name="unavailable_live">"Globoplay live unavailable: %1$s"</string>
+</resources>

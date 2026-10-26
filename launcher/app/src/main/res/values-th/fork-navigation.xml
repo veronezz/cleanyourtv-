@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"ภาษา"</string>
+    <string name="language_system">"ตามระบบ"</string>
+    <string name="settings_home">"หน้าจอหลัก"</string>
+    <string name="ui_planos_de_fundo_56a6">"วอลเปเปอร์"</string>
+    <string name="ui_clima_6165">"สภาพอากาศ"</string>
+    <string name="ui_midia_e_sistema_193a">"สื่อและระบบ"</string>
+    <string name="ui_projeto_2264">"โครงการ"</string>
+    <string name="app_library">"คลังแอป"</string>
+</resources>

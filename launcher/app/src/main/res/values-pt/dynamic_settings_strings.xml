@@ -1,0 +1,14 @@
+<resources>
+<string name="settings_home">Tela inicial</string>
+<string name="settings_home_help">Tema, ícones, dock, apps ocultos e linhas dinâmicas</string>
+<string name="settings_system_help">Idioma, acesso à mídia e Android TV</string>
+<string name="settings_expanded">Expandido</string>
+<string name="settings_collapsed">Recolhido</string>
+<string name="rows_master">Todas as linhas dinâmicas</string>
+<string name="rows_show">Mostrar linhas</string>
+<string name="rows_apps_only">Somente aplicativos</string>
+<string name="rows_master_help">Desative para ocultar Continuar assistindo, TV ao vivo, recomendações e Tocando agora. As escolhas individuais são preservadas.</string>
+<string name="rows_music">Tocando agora · Spotify</string>
+<string name="rows_tizentube">Recomendações do TizenTube</string>
+<string name="rows_youtube">Recomendações do YouTube</string>
+</resources>

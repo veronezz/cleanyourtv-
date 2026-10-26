@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Język"</string>
+    <string name="language_system">"Zgodnie z systemem"</string>
+    <string name="settings_home">"Ekran główny"</string>
+    <string name="ui_planos_de_fundo_56a6">"Tapety"</string>
+    <string name="ui_clima_6165">"Pogoda"</string>
+    <string name="ui_midia_e_sistema_193a">"Multimedia i system"</string>
+    <string name="ui_projeto_2264">"Projekt"</string>
+    <string name="app_library">"Biblioteka aplikacji"</string>
+</resources>

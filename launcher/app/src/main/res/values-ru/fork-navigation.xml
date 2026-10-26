@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Язык"</string>
+    <string name="language_system">"Как в системе"</string>
+    <string name="settings_home">"Главный экран"</string>
+    <string name="ui_planos_de_fundo_56a6">"Обои"</string>
+    <string name="ui_clima_6165">"Погода"</string>
+    <string name="ui_midia_e_sistema_193a">"Медиа и система"</string>
+    <string name="ui_projeto_2264">"Проект"</string>
+    <string name="app_library">"Библиотека приложений"</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="icon_size">Tamaño de los iconos</string>
+    <string name="icon_size_help">Tarjetas más grandes en apps, TV en directo y seguir viendo. Las columnas se ajustan; el foco añade un 15%.</string>
+    <string name="weather_icons">Iconos del tiempo</string>
+    <string name="weather_text_only">Solo texto</string>
+    <string name="weather_icons_help">Iconos opcionales de Google junto a la previsión Open-Meteo. La primera descarga necesita internet.</string>
+</resources>

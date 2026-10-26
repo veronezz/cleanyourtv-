@@ -1,0 +1,6 @@
+<resources>
+<string name="wh_next">Next wallpaper</string>
+<string name="wh_next_help">Skip the current wallpaper when you return Home. Spotify keeps priority.</string>
+<string name="wh_next_requested">Next wallpaper requested</string>
+<string name="wh_next_action">Next</string>
+</resources>

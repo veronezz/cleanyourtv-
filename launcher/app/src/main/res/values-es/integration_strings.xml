@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_library">"Biblioteca de aplicaciones"</string>
+    <string name="library_loading">"Cargando aplicaciones…"</string>
+    <string name="library_help">"Abre las aplicaciones instaladas, incluidas las ocultas del inicio"</string>
+</resources>

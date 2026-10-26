@@ -1,0 +1,7 @@
+<resources>
+    <string name="icon_size">Icon size</string>
+    <string name="icon_size_help">Larger cards in apps, live TV and continue watching. Columns adapt to fit; focus adds 15%.</string>
+    <string name="weather_icons">Weather icons</string>
+    <string name="weather_text_only">Text only</string>
+    <string name="weather_icons_help">Optional Google icons beside the Open-Meteo forecast. Requires internet for the first download.</string>
+</resources>

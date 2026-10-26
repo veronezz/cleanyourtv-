@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Jezik"</string>
+    <string name="language_system">"Prati sistem"</string>
+    <string name="settings_home">"Početni ekran"</string>
+    <string name="ui_planos_de_fundo_56a6">"Pozadine"</string>
+    <string name="ui_clima_6165">"Vreme"</string>
+    <string name="ui_midia_e_sistema_193a">"Mediji i sistem"</string>
+    <string name="ui_projeto_2264">"Projekat"</string>
+    <string name="app_library">"Biblioteka aplikacija"</string>
+</resources>

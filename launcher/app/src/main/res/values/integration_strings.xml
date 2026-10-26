@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_library">"App library"</string>
+    <string name="library_loading">"Loading apps…"</string>
+    <string name="library_help">"Open installed apps, including those hidden from Home"</string>
+</resources>

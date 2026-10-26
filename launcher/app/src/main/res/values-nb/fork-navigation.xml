@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Språk"</string>
+    <string name="language_system">"Følg systemet"</string>
+    <string name="settings_home">"Startskjerm"</string>
+    <string name="ui_planos_de_fundo_56a6">"Bakgrunner"</string>
+    <string name="ui_clima_6165">"Vær"</string>
+    <string name="ui_midia_e_sistema_193a">"Medier og system"</string>
+    <string name="ui_projeto_2264">"Prosjekt"</string>
+    <string name="app_library">"Appbibliotek"</string>
+</resources>

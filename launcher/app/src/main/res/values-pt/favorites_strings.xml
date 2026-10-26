@@ -1,0 +1,15 @@
+<resources>
+    <string name="theme_ios_dark_detail">Painéis de vidro escuro com o layout iOS</string>
+    <string name="fav_title">Wallpapers favoritos</string>
+    <string name="fav_gallery">Galeria</string>
+    <string name="fav_empty">Nenhum favorito ainda. Mostre um wallpaper na tela inicial e escolha Favoritar wallpaper atual.</string>
+    <string name="fav_save">Favoritar wallpaper atual</string>
+    <string name="fav_add">Salvar</string>
+    <string name="fav_save_help">Guarda o wallpaper localmente, independente da fonte e do tema. A capa do Spotify não é salva.</string>
+    <string name="fav_saved">Wallpaper salvo nos favoritos</string>
+    <string name="fav_failed">Não foi possível salvar. Mostre um wallpaper na tela inicial e confira o espaço disponível. Limite da coleção: 200.</string>
+    <string name="fav_help">Escolha uma imagem para usar a coleção offline. Ela alterna no intervalo configurado, com prioridade para o Spotify.</string>
+    <string name="fav_item_help">Aperte OK para usar ou remover</string>
+    <string name="fav_use">Usar coleção a partir desta imagem</string>
+    <string name="fav_remove">Remover dos favoritos</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="theme_title">"Tema"</string>
+    <string name="theme_default">"Predeterminado"</string>
+    <string name="theme_smoked">"Smoked Glass"</string>
+    <string name="theme_help">"Elige el material de los paneles y menús"</string>
+    <string name="theme_choose">"Elige un tema"</string>
+    <string name="theme_preview">"Vista previa · los cambios solo se guardan al aplicar"</string>
+    <string name="theme_default_detail">"El aspecto actual, con paneles y brillo suave"</string>
+    <string name="theme_smoked_detail">"Cristal ahumado con el fondo desenfocado una vez al abrir"</string>
+    <string name="theme_apply">"Aplicar tema"</string>
+    <string name="theme_cancel">"Cancelar"</string>
+    <string name="theme_sample">"Tus aplicaciones"</string>
+    <string name="theme_sample_detail">"Transparencia, contraste y profundidad"</string>
+    <string name="theme_selected">"Seleccionado"</string>
+</resources>

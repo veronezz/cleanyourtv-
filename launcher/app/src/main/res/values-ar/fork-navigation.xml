@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"اللغة"</string>
+    <string name="language_system">"اتباع النظام"</string>
+    <string name="settings_home">"الشاشة الرئيسية"</string>
+    <string name="ui_planos_de_fundo_56a6">"خلفيات الشاشة"</string>
+    <string name="ui_clima_6165">"الطقس"</string>
+    <string name="ui_midia_e_sistema_193a">"الوسائط والنظام"</string>
+    <string name="ui_projeto_2264">"المشروع"</string>
+    <string name="app_library">"مكتبة التطبيقات"</string>
+</resources>

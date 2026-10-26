@@ -1,0 +1,5 @@
+<resources>
+<string name="theme_remote_help">Preview with the arrows · press OK on a theme to apply</string>
+<string name="media_reset_help">After clearing launcher data, re-enable dynamic rows and restore TV-list access with the update script. If access is OK and lists are empty, open the publishing apps again.</string>
+<string name="media_access_prompt">To show Spotify on Home, allow the launcher to access media sessions on the next screen.</string>
+</resources>

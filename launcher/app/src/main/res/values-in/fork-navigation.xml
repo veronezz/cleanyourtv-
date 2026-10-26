@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="language_title">"Bahasa"</string>
+    <string name="language_system">"Ikuti sistem"</string>
+    <string name="settings_home">"Layar utama"</string>
+    <string name="ui_planos_de_fundo_56a6">"Wallpaper"</string>
+    <string name="ui_clima_6165">"Cuaca"</string>
+    <string name="ui_midia_e_sistema_193a">"Media dan sistem"</string>
+    <string name="ui_projeto_2264">"Proyek"</string>
+    <string name="app_library">"Pustaka aplikasi"</string>
+</resources>

@@ -1,0 +1,6 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="24dp" android:height="24dp" android:viewportWidth="24" android:viewportHeight="24">
+    <!-- Sun centered at (8,8), radius 3; every ray follows the same center. -->
+    <path android:fillColor="@android:color/transparent" android:strokeColor="#C5F3FA" android:strokeWidth="1.6" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M11,8 A3,3 0,1 0,5 8 A3,3 0,1 0,11 8 M8,2 L8,0.9 M3.76,3.76 L2.98,2.98 M2,8 L0.9,8 M12.24,3.76 L13.02,2.98" />
+    <!-- Opaque fill masks the covered part of the sun behind the cloud. -->
+    <path android:fillColor="#FF21323B" android:strokeColor="#C5F3FA" android:strokeWidth="1.6" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M7,20 C1,20 1,12 6.5,12 C8.5,6 17.5,7 18,13 C24,13 24,20 18.5,20 Z" />
+</vector>
